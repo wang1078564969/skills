@@ -98,6 +98,7 @@ manual/                            # 使用手册
 └── （原 extension/ 目录仅有的两个 3D 空占位文件已删除，3D 内容统一看 3d.md）
 
 backup/                            # CameraSetting 相机设置原始文档，内容已并入 3d.md
+```
 
 ## 典型 v4 习惯 vs 5.x 写法
 
