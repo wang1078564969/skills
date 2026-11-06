@@ -1,5 +1,0 @@
----
-title: Theme Overview
----
-
-## Overview
